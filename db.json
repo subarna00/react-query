@@ -1,0 +1,101 @@
+{
+  "superheroes": [
+    {
+      "id": 1,
+      "name": "Batman",
+      "alterEgo": "Bruce Wayne"
+    },
+    {
+      "id": 2,
+      "name": "Superman",
+      "alterEgo": "Clark Kent"
+    },
+    {
+      "id": 3,
+      "name": "Wonder Woman",
+      "alterEgo": "Princess Diana"
+    },
+    {
+      "name": "subarna",
+      "alterEgo": "uprety",
+      "id": 4
+    }
+  ],
+  "friends": [
+    {
+      "id": 1,
+      "name": "subarna"
+    },
+    {
+      "id": 2,
+      "name": "uprety"
+    },
+    {
+      "id": 3,
+      "name": "namrendera"
+    },
+    {
+      "id": 4,
+      "name": "upres"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "subarnauprety@gmail.com",
+      "channelId": "subarnas"
+    }
+  ],
+  "channels": [
+    {
+      "id": "subarnas",
+      "courses": [
+        "react",
+        "vue",
+        "angular"
+      ]
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "name": "red"
+    },
+    {
+      "id": 2,
+      "name": "yello"
+    },
+    {
+      "id": 3,
+      "name": "blue"
+    },
+    {
+      "id": 4,
+      "name": "white"
+    },
+    {
+      "id": 5,
+      "name": "black"
+    },
+    {
+      "id": 6,
+      "name": "brown"
+    },
+    {
+      "id": 7,
+      "name": "gray"
+    },
+    {
+      "id": 8,
+      "name": "snowWhite"
+    },
+    {
+      "id": 9,
+      "name": "purple"
+    },
+    {
+      "id": 10,
+      "name": "golden"
+    }
+  ]
+}
